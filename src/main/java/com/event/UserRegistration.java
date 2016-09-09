@@ -1,4 +1,4 @@
-package com.test;
+package src.main.java.com.event;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

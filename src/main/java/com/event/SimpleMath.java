@@ -1,4 +1,4 @@
-package com.test;
+package src.main.java.com.event;
 
 public class SimpleMath {
 
